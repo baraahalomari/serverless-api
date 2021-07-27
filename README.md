@@ -6,6 +6,8 @@ https://github.com/baraahalomari/serverless-api
 
 ## PR
 
+https://github.com/baraahalomari/serverless-api/pull/1
+
 ## Feature Tasks
 
 > Create a single resource REST API using a domain model of your choosing, constructed using AWS Cloud Services.
@@ -17,7 +19,7 @@ https://github.com/baraahalomari/serverless-api
 * PUT: /people/{id}
 * DELETE: /people/{id}
 
-Root URL:
+Root URL: https://jg7p15r7ol.execute-api.us-east-1.amazonaws.com/
 
 **Outputs:** 
 
